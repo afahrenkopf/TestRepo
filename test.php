@@ -2,6 +2,4 @@
 
 //test file
 
-echo "testing";
-
 ?>
